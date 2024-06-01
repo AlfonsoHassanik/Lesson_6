@@ -1,10 +1,3 @@
-/*public class Park {
-    class Attraction {
-        String name;
-        String time;
-        double price;
-    }
-} */
 public class Park {
 
     private String name;
